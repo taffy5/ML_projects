@@ -2,3 +2,4 @@
 2 : Gold price prediction - Random Forest Regression
 3 : Car price prediction - Linear & Lasso Regression 
 4 : Customer Segmentation - KMeans Clustering
+5 : Loan Prediction - Support vector machine
